@@ -1,5 +1,5 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        Aluno alu = new Aluno("Pedro", "00000", 20,"222222");
     }
 }
