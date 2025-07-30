@@ -1,0 +1,7 @@
+INGRESSO:
+VALOR
+NOME DO FILME
+DUB/LEG
+MEIA/FAMILIA
+
+Criar Ingresso como abstratc e puxar para classe meia entrada e família.
